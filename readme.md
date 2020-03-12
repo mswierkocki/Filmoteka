@@ -1,5 +1,5 @@
 # Filmoteka
-> Asynchroniczny menadżer wypożyczalni filmów.
+> Asynchroniczny menadżer wypożyczalni filmów. Napisany w 2014r. 
 
 Prototyp aplikacji dla wypożyczalni filmów.
 Obsługuje:
